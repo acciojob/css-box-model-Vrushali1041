@@ -1,2 +1,10 @@
+div{
+margin: 20px;
+border: 15px solid blue;
+padding: 15px;
+background: lightblue;
+width: 300px;
+/* text-align: center; */
+}
 
 /* Your CSS Code here. */
